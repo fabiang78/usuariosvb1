@@ -1,0 +1,10 @@
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\bin\Debug\sistema colegio.exe
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\bin\Debug\sistema colegio.pdb
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\bin\Debug\sistema colegio.xml
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\obj\x86\Debug\sistema_colegio.Resources.resources
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\obj\x86\Debug\sistema colegio.vbproj.GenerateResource.Cache
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\obj\x86\Debug\sistema colegio.exe
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\obj\x86\Debug\sistema colegio.xml
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\obj\x86\Debug\sistema colegio.pdb
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\obj\x86\Debug\sistema_colegio.login.resources
+C:\Users\TT\Documents\udemy vb\sistema colegio\sistema colegio\obj\x86\Debug\sistema_colegio.Usuarios.resources
